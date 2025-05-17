@@ -43,22 +43,10 @@ Welcome to Week 1 of the **90 Days of DevOps - 2025 Edition**! This week's focus
 - [DNS Basics by Cloudflare](https://www.cloudflare.com/learning/dns/what-is-dns/)
 - [Docker Networking](https://docs.docker.com/network/)
 
-Feel free to explore these resources and expand your learning!
-
----
-
-### Example Submission Post:
-"Week 1 of #90DaysOfDevOps2025 completed! 🚀
 
 ✅ Learned OSI & TCP/IP models
 ✅ Explored AWS Security Groups
 ✅ Practiced networking commands
 ✅ Set up my first web server
 
-Check out my blog here: [Your Blog/GitHub Link]
 
-#Networking #DevOps #90DaysOfDevOps"
-
----
-
-Good luck, and happy networking! 🌐
